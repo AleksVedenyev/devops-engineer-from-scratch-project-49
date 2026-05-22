@@ -1,7 +1,10 @@
 [project]
-name = "hexlet-code"
+authors = [
+    {name = Aleksandr Vedenyev},
+]
+name = "Brain Games"
 version = "0.1.0"
-description = "Add your description here"
+description = "Brain Games is a collection of console mini-games designed to train logic and math skills."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
@@ -22,3 +25,8 @@ dev = [
 
 [project.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
+brain-even = "brain_games.scripts.brain_even:main"
+brain-calc = "brain_games.scripts.brain_calc:main"
+brain-gcd = "brain_games.scripts.brain_gcd:main"
+brain-progression = "brain_games.scripts.brain_progression:main"
+brain-prime = "brain_games.scripts.brain_prime:main"
