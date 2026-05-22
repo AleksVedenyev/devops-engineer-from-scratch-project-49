@@ -1,5 +1,7 @@
 [project]
-authors = ["Aleksandr Vedenyev"]
+authors = [
+  { name = "Aleksandr Vedenev", email = "aleks.vedenev@gmail.com" }
+]
 name = "hexlet-code"
 version = "0.1.0"
 description = "Brain Games is a collection of console mini-games designed to train logic and math skills."
