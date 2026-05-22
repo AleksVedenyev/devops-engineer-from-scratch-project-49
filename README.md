@@ -10,4 +10,8 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AleksVedenyev_devops-engineer-from-scratch-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=AleksVedenyev_devops-engineer-from-scratch-project-49)
 
 
+Brain-Even
 [![asciicast](https://asciinema.org/a/2KSQbE6rYI0Lg5mM.svg)](https://asciinema.org/a/2KSQbE6rYI0Lg5mM)
+
+Brain-Calc
+[![asciicast](https://asciinema.org/a/NNZbVSJjwZnhqeEq.svg)](https://asciinema.org/a/NNZbVSJjwZnhqeEq)
