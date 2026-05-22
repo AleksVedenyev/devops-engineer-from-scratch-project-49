@@ -1,5 +1,5 @@
 [project]
-authors = "Aleksandr Vedenyev"
+authors = ["Aleksandr Vedenyev"]
 name = "hexlet-code"
 version = "0.1.0"
 description = "Brain Games is a collection of console mini-games designed to train logic and math skills."
