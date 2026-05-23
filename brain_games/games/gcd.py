@@ -16,9 +16,6 @@ def question_and_correct_answer():
     a = first_random_num
     b = second_random_num
     temp = b
-    if b == 0:
-        answer = str(a)
-        return question, answer
     while b != 0:
         b = a % b
         a = temp
