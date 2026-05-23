@@ -5,8 +5,7 @@ def random_number():
     return random.randint(1, 100)
 
 
-def game_condition():
-    return 'Find the greatest common divisor of given numbers.'
+GAME_CONDITION = 'Find the greatest common divisor of given numbers.'
 
 
 def question_and_correct_answer():

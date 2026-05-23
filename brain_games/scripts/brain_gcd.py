@@ -1,9 +1,9 @@
-from brain_games.games.gcd import game_condition, question_and_correct_answer
+from brain_games.games import gcd
 from brain_games.main_logic import main_logic
 
 
 def main():
-    main_logic(question_and_correct_answer, game_condition)
+    main_logic(gcd)
 
 
 if __name__ == "__main__":

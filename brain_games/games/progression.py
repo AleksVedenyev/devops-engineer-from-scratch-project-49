@@ -5,8 +5,7 @@ def random_number():
     return random.randint(1, 50)
 
 
-def game_condition():
-    return 'What number is missing in the progression?'
+GAME_CONDITION = 'What number is missing in the progression?'
 
 
 def make_progression():

@@ -1,9 +1,9 @@
-from brain_games.games.prime import game_condition, question_and_correct_answer
+from brain_games.games import prime
 from brain_games.main_logic import main_logic
 
 
 def main():
-    main_logic(question_and_correct_answer, game_condition)
+    main_logic(prime)
 
 
 if __name__ == "__main__":

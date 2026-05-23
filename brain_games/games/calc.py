@@ -10,8 +10,7 @@ def random_operator():
     return random.choice(operators)
 
 
-def game_condition():
-    return 'What is the result of the expression?'
+GAME_CONDITION = 'What is the result of the expression?'
 
 
 def question_and_correct_answer():

@@ -9,8 +9,7 @@ def is_even(number):
     return number % 2 == 0
 
 
-def game_condition():
-    return 'Answer "yes" if the number is even, otherwise answer "no".'
+GAME_CONDITION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def question_and_correct_answer():

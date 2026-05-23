@@ -17,8 +17,7 @@ def is_prime(number):
     return True
         
 
-def game_condition():
-    return 'Answer "yes" if given number is prime. Otherwise answer "no".'
+GAME_CONDITION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def question_and_correct_answer():
